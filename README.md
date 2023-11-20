@@ -1,0 +1,1 @@
+This script uses natural language processing techniques to perform topic modeling on a dataset of tweets. It applies preprocessing steps such as text cleaning, tokenization, and lemmatization before employing Latent Dirichlet Allocation (LDA) to extract topics from the data. Visualization tools and coherence scores aid in determining the optimal number of topics.
